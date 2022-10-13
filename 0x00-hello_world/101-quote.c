@@ -1,6 +1,6 @@
-nclude < unistd.h >
+#include <unistd.h>
 /**
-*main-entry point.
+*main- entry point.
 *
 *Return: 1 on success.
 */
