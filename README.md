@@ -1,1 +1,1 @@
-tasks checked by betty
+More pointers, arrays and strings
